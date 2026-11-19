@@ -18,14 +18,11 @@ I worked on tools for teams testing and diagnosing **wireless LAN systems**:
 
 **Software & infrastructure:** Python, FastAPI, PostgreSQL, Docker, React, and test automation
 
-### What I’m learning and exploring
+### Current interests
 
-I’m following the [NYSRG network stacks reading path](https://notes.ekzhang.com/events/nysrg), starting with ixy’s user-space network driver. My interests include:
-
-- **Network stacks and packet I/O:** Linux networking, NICs, user-space drivers, DPDK, and high-speed packet processing
-- **Kernel networking and observability:** eBPF, XDP, and bpftrace
-- **High-performance communication:** RDMA, InfiniBand, and data movement across machines
-- **Network virtualization and isolation:** virtual networking, software switching, and gVisor
-- **Data-center and AI networking:** network fabrics, distributed training, and collective communication
+- High-speed networking, NICs, and packet processing
+- Linux networking, eBPF/XDP, and DPDK
+- RDMA, InfiniBand, and data-center networks
+- Network virtualization, gVisor, and distributed AI communication
 
 I’m interested in connecting with people working on **network systems, AI infrastructure, and open-source software**.
